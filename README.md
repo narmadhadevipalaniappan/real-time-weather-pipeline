@@ -30,7 +30,7 @@ API → Python → SQL Server → Power BI
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ---
 
